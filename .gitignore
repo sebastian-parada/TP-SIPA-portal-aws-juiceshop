@@ -1,0 +1,6 @@
+*.pem
+*.pfx
+*.p12
+.env
+__pycache__/
+*.pyc
